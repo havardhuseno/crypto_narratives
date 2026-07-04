@@ -1,7 +1,7 @@
 # Attention, Sentiment, or Narrative? — analysis code
 
 Analysis code for the paper *"Attention, sentiment, or narrative? Decomposing the social-media
-signal in cryptocurrency markets"* (submitted to *Quantitative Finance*).
+signal in cryptocurrency markets"* (submitted for review).
 
 This repository contains the **code only**, for browsing. The full replication package — these
 scripts *plus* all input data (per-post narrative labels and identifiers, the frozen classifier,
